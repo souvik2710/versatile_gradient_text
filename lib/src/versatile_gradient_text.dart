@@ -1,6 +1,13 @@
 import 'package:flutter/material.dart';
 
 class VersatileGradientText extends StatelessWidget {
+  //this widget takes only two color
+  //TileMode can be changed :optional
+  //from enum VersatileGradientType we can get the type og gradient we want
+  //later will be adding the Alignment also as a pass variable
+  //enum used to segregate the types of gradient
+  // till date only two color is supported for gradient colors for simplicity and ease of use
+
   final Color colorOne;
   final Color colorTwo;
   final double fontSize;
