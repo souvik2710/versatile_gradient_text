@@ -1,6 +1,5 @@
 name: versatile_gradient_text
-description: A text widget with customised gradient. We have seen container gradient, button gradient and appbar with gradient design.
-But in some unique cases we need text gradient similar to those we have used in PowerPoint Presentation.
+description: A text widget with customised gradient. We have seen container gradient, button gradient and appbar with gradient design.But in some unique cases we need text gradient similar to those we have used in PowerPoint Presentation.
 version: 0.0.2
 homepage: https://github.com/souvik2710/versatile_gradient_text
 
