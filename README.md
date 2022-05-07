@@ -23,13 +23,13 @@ import 'package:versatile_gradient_text/versatile_gradient_text.dart';
 
 #### radial type
 <p align="center">
-<img src="https://raw.githubusercontent.com/souvik2710/versatile_gradient_text/master/images/gradient2.png" width="260" height="180" hspace="20"/>
+<img src="https://raw.githubusercontent.com/souvik2710/versatile_gradient_text/master/images/gradient2.png" width="400" height="180" hspace="20"/>
 </p>
 
 
 #### linear type
 <p align="center">
-<img src="https://raw.githubusercontent.com/souvik2710/versatile_gradient_text/master/images/gradient1.png" width="260" height="180" hspace="20"/>
+<img src="https://raw.githubusercontent.com/souvik2710/versatile_gradient_text/master/images/gradient1.png" width="400" height="180" hspace="20"/>
 </p>
 
 
