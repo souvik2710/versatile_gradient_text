@@ -29,11 +29,13 @@ class DemoGradientScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       body: Center(
-        child: VersatileGradientText(
-          textString: 'Gradient Text',
-          colorOne: Colors.yellow, colorTwo: Colors.deepOrange,
-          fontSize: 40, versatileGradientType: VersatileGradientType.radial,)
-      ),
+          child: VersatileGradientText(
+        textString: 'Gradient Text',
+        colorOne: Colors.yellow,
+        colorTwo: Colors.deepOrange,
+        fontSize: 40,
+        versatileGradientType: VersatileGradientType.radial,
+      )),
     );
   }
 }
